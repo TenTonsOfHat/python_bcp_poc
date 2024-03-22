@@ -1,0 +1,5 @@
+bcpy
+typer[all]
+pandas
+pandas 
+pyodbc

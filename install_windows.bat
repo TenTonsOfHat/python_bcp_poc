@@ -1,0 +1,1 @@
+choco install sqlserver-cmdlineutils

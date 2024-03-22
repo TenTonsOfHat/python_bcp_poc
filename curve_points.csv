@@ -1,0 +1,2 @@
+CurvePointID,PriceInstrumentID,IsActive,EstimateActual,EffectiveFromDateTime,EffectiveToDateTime,TradePeriodFromDateTime,TradePeriodToDateTime,TradePeriodId,UpdatedDateTime,SourceID,CredentialId,UnitOfMeasureId,CurvePointTypeCvId
+2295325,62146,True,A,2023-10-09 10:23:52.613,9999-01-01 00:00:00,,,,2023-10-09 10:24:00,,,,
